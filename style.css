@@ -1,0 +1,71 @@
+/* Fonte universal do site */
+*{
+    font-family:'Varela Round', sans-serif;
+}
+
+/* Configuração do body */
+body{
+    background-color: #d9d9d9;
+    color: #000000;
+}
+
+/* Cor da fonte no carousel */
+.minhacor{
+    color:#ffff;
+}
+
+/* Negrito nos títulos do carousel */
+.edit-h5{
+    font-weight: bold;
+}
+
+/* Cor da logo */
+.navbar-brand, .cor2{ color: rgb(94, 94, 94);}
+
+/* Cor do NavBar */
+.cornavbar{background-color:#d9d9d9;}
+
+/* Cor do botão no NavBar */
+.corbotao{background-color: #f5f2f2;}
+
+/* Configuração Breadcrumb */
+aside{
+    background-color: #f5f2f2; /* Cor de fundo */
+    padding-left: 15px; /* Preenchimento na esquerda */
+    padding-bottom: 10px; /* Preenchimento embaixo */
+    padding-top: 10px; /* Preenchimento em cima */
+    text-align: center; /* Alinhamento do texto ao centro*/
+}
+
+/* Cor do Section 1 */
+.container-section1{background-color:#f5f2f2 ;}
+
+/* Espaçamento da imagem */
+.img-fluid{padding: 20px;}
+
+/* Margem no texto 1 */
+.text-uppercase1{margin-top: 100px;}
+
+/* Margem no texto 2 */
+.text-uppercase2{margin-top: 40px;}
+
+/* Configuração do texto da section */
+.text-justify{
+    text-align: justify; /* Texto justificado */
+    margin-right: 20px; /* Margem direita */
+}
+
+/* Configurações do Footer */
+footer{
+    background-color:#f5f2f2 ;/*Cor de fundo*/
+    padding: 5px 0; /*Espaçamento*/
+    text-align: center; /*Alinhamento do texto*/
+    background-color:#f5f2f2 ; /*Cor de fundo*/
+    padding-top: 50px; /*Espaçamento em cima*/
+    margin-top: 5rem solid ;/*Margem em cima*/
+    margin: 0 auto; /*Margem*/
+    margin-bottom: 4px; /*Margem embaixo*/
+    padding-bottom: 40px; /*Espaçamento embaixo*/
+}
+
+
